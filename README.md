@@ -1,4 +1,4 @@
-# Back-End Java Developer
+# Desenvolvedor FullStack
 
 Desenvolvo aplicações completas, do back-end ao front-end, sempre priorizando organização, clareza e boas práticas. Trabalho principalmente com Java + Spring Boot no back-end e HTML, CSS, JavaScript e Vue no front-end. Atuo também como freelancer, criando soluções sob medida para empresas e profissionais, desde APIs e sistemas internos até sites modernos e responsivos.
 
