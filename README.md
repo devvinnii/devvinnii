@@ -13,19 +13,19 @@ Desenvolvo aplicações completas, do back-end ao front-end, sempre priorizando 
 
 ## Tecnologias & Ferramentas
 
-### 🔹 Back-End
+### Back-End
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql\&perline=5)](https://skillicons.dev)
 
-### 🔹 DevOps / Infra
+### DevOps / Infra
 
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,postman\&perline=5)](https://skillicons.dev)
 
-### 🔹 Front-End
+### Front-End
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind\&perline=5)](https://skillicons.dev)
 
-### 🔹 Outras Skills
+### Outras Skills
 
 [![My Skills](https://skillicons.dev/icons?i=wordpress,figma,vscode\&perline=5)](https://skillicons.dev)
 
